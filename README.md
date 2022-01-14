@@ -1,8 +1,30 @@
-# Hey Folks!
-I'm neither a nerd nor a geek. I'm just a normal 15-year-old boy, working hard to become something in life. I'm also a blogger and a programmer, I know Python, Go, HTML, CSS and Javascript. I'm passionate about computer science. I'm just a normal boy, who loves to read books, write new things and code. I'm a not-so-social guy, but I love meeting new people. I'm optimistic and enthusiastic, but not a know-it-all. I am continuosly trying to create things. I have been a very curious person for as long as I can remember. If you have any question or suggestion, feel free to contact me.
 
-# My Blog
-Please feel free to go over to [my blog](https://hackersreboot.tech/) to get to know me, my style and learn something in the process. 
+# Hi, I'm Arpan! 👋
+## 🚀 About Me
 
-# My Dev Card 
+I am a 15-year old school student. I love to code, work on new projects, build stuff from scratch. I started out with Python. I later transitioned to Go and JavaScript and have been using them together in my projects. I am currently learning C, C++. I also love to read books, blogs on new trends and technologies. I am a big fan of Harry Potter and Mission Impossible. I have completed CS50 and am currently learning about AI.
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, Python, Go, C, C++...
+
+
+## Other Common Github Profile Sections
+### 👩‍💻 I'm currently working on...
+- EncryptoCLI
+
+### 🧠 I'm currently learning...
+- C 
+- C++
+- React
+
+### 💬 Ask me about...    
+Anything..  
+### 📫 How to reach me...
+- Twitter: @HackersReboot
+- Email: arpan@hackersreboot.tech
+### 😄 Pronouns...  
+He/Him
+
+## My Dev Card
 <a href="https://app.daily.dev/hackersreboot"><img src="https://github.com/Arpan-206/Arpan-206/blob/master/devcard.svg" width="400" alt="Arpan Pandey's Dev Card"/></a>
