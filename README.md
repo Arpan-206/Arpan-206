@@ -9,7 +9,7 @@ I am a 15-year old school student. I love to code, work on new projects, build s
 Javascript, HTML, CSS, Python, Go, C, C++...
 
 
-## Other Common Github Profile Sections
+## Uhh I don't know what would come here
 ### 👩‍💻 I'm currently working on...
 - EncryptoCLI
 
