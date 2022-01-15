@@ -1,5 +1,7 @@
 
-# Hi, I'm Arpan! 👋
+# Hi, I'm Arpan! 👋  
+
+![Arpan](https://kz5qyx.deta.dev/user/Arpan-206.png)
 ## 🚀 About Me
 
 I am a 15-year old school student. I love to code, work on new projects, build stuff from scratch. I started out with Python. I later transitioned to Go and JavaScript and have been using them together in my projects. I am currently learning C, C++. I also love to read books, blogs on new trends and technologies. I am a big fan of Harry Potter and Mission Impossible. I have completed CS50 and am currently learning about AI.
