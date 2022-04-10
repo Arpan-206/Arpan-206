@@ -11,20 +11,30 @@ Javascript, HTML, CSS, Python, Go, C, C++...
 
 ## Uhh I don't know what would come here
 ### 👩‍💻 I'm currently working on...
-- EncryptoCLI
+- Formee, DevArmyKnife
 
 ### 🧠 I'm currently learning...
-- C 
-- C++
+- Rust
+- Go
 - React
 
 ### 💬 Ask me about...    
 Anything..  
+
 ### 📫 How to reach me...
 - Twitter: @HackersReboot
 - Email: arpan@hackersreboot.tech
+
 ### 😄 Pronouns...  
 He/Him
+
+## Stats📈
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arpan-206&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="Arpan-206" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Arpan-206&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="Arpan-206" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arpan-206&theme=highcontrast&hide_border=true" alt="Arpan-206" />
+</p>
+
 
 ## Github Activity Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Arpan-206&theme=github&hide_border=true)
