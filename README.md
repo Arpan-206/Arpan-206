@@ -2,7 +2,7 @@
 # Hi, I'm Arpan! 👋 
 ## 🚀 About Me
 
-I am a 15-year old school student. I love to code, work on new projects, build stuff from scratch. I started out with Python. I later transitioned to Go and JavaScript and have been using them together in my projects. I am currently learning C, C++. I also love to read books, blogs on new trends and technologies. I am a big fan of Harry Potter and Mission Impossible. I have completed CS50 and am currently learning about AI.
+I am a 16-year old school student. I love to code, work on new projects, build stuff from scratch. I started out with Python. I later transitioned to Go and JavaScript and have been using them together in my projects. I am currently learning C, C++. I also love to read books, blogs on new trends and technologies. I am a big fan of Harry Potter and Mission Impossible. I have completed CS50 and am currently learning about AI.
 
 
 ## 🛠 Skills
@@ -35,6 +35,7 @@ He/Him
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arpan-206&theme=highcontrast&hide_border=true" alt="Arpan-206" />
 </p>
 
+[![An image of @arpan206's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arpan206)](https://holopin.io/@arpan206)
 
 ## Github Activity Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Arpan-206&theme=github&hide_border=true)
